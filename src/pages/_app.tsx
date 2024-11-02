@@ -27,7 +27,7 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-export default function App({ Component, pageProps }: AppProps) {
+const MyApp = ({ Component, pageProps }: AppProps)=> {
   return (
     <>
       <Head>
@@ -41,3 +41,5 @@ export default function App({ Component, pageProps }: AppProps) {
     </>
   );
 }
+
+export default MyApp;
