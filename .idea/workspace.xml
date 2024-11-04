@@ -5,7 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0e96f3b-05ef-4d11-8336-dc506d0f0364" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/services/auth/signin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/AppLogo/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Badge/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/BreadcrumbItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/IconButton/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Input/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/RectLoader/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/ScaleImage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Separator/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/ShapeImage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Spinner/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Text/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/TextArea/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Box/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Flex/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Grid/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/fontSizes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/letterSpacing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/lineHeights.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/space.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/styles.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/users/get-user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/users/get-user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Button.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Configure.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Header.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Page.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/accessibility.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/accessibility.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/addon-library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/assets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/avif-test-image.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/context.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/discord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/docs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/figma-plugin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/styling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/testing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/theming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/tutorials.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/assets/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/data.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/data.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,65 +69,47 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2o7ISnfkt4ZrWzkCwtDGIls6jZs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.main.ts.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/naoyukiumeda/ForStudy/nextjs-book-1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.storybook.executor": "Run",
-    "settings.editor.selected.configurable": "Errors",
-    "ts.external.directory.path": "/Users/naoyukiumeda/ForStudy/nextjs-book-1/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.main.ts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/naoyukiumeda/ForStudy/nextjs-book-1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.storybook.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/naoyukiumeda/ForStudy/nextjs-book-1/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
     </key>
-  </component>
-  <component name="RunManager" selected="Node.js.main.ts">
-    <configuration name="main.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.storybook/main.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/.storybook">
-      <method v="2" />
-    </configuration>
-    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="storybook" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.storybook" />
-        <item itemvalue="Node.js.main.ts" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,10 +127,33 @@
       <option name="presentableId" value="Default" />
       <updated>1730214189252</updated>
       <workItem from="1730214190288" duration="20187000" />
+      <workItem from="1730613555244" duration="13667000" />
+      <workItem from="1730693931301" duration="7497000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5799addf-33e6-470e-aaaa-7edca9d24881" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5799addf-33e6-470e-aaaa-7edca9d24881">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
